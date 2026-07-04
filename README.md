@@ -55,9 +55,9 @@ A code editor such as VS Code
 
 1. Clone the repository
 
-bash: 
-git clone https://github.com/SaumyaPatil/SpaceEscapeRunner.git
-cd SpaceEscapeRunner
+bash: git clone https://github.com/SaumyaPatil/SpaceEscapeRunner.git
+
+bash: cd SpaceEscapeRunner
 
 2. Install dependencies
 
@@ -84,11 +84,11 @@ This project uses EAS Build to generate installable Android files.
 
 Generate an APK (for direct install / testing):
 
-basheas build -p android --profile preview
+bash: eas build -p android --profile preview
 
 Generate an AAB (for Google Play Store submission):
 
-basheas build -p android --profile production
+bash: eas build -p android --profile production
 
 
 📁 Project Structure
