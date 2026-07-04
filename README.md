@@ -137,7 +137,8 @@ This project is licensed under the MIT License — see the LICENSE file for deta
 👤 Author
 
 Saumya Patil
-Built as a beginner-friendly React Native + Expo learning project.
+
+Built a beginner-friendly React Native + Expo learning project.
 
 
 GitHub: @SaumyaPatil
