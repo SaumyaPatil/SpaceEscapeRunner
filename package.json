@@ -3,12 +3,15 @@
   "version": "1.0.0",
   "main": "index.js",
   "dependencies": {
+    "@expo/ngrok": "^4.1.0",
     "@react-native-async-storage/async-storage": "2.2.0",
     "expo": "~56.0.13",
     "expo-linear-gradient": "~56.0.4",
     "expo-status-bar": "~56.0.4",
     "react": "19.2.3",
-    "react-native": "0.85.3"
+    "react-dom": "19.2.3",
+    "react-native": "0.85.3",
+    "react-native-web": "^0.21.2"
   },
   "scripts": {
     "start": "expo start",
