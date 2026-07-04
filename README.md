@@ -55,16 +55,17 @@ A code editor such as VS Code
 
 1. Clone the repository
 
-bashgit clone https://github.com/SaumyaPatil/SpaceEscapeRunner.git
+bash: 
+git clone https://github.com/SaumyaPatil/SpaceEscapeRunner.git
 cd SpaceEscapeRunner
 
 2. Install dependencies
 
-bashnpm install
+bash: npm install
 
 3. Start the development server
 
-bashnpx expo start
+bash: npx expo start
 
 4. Run the app
 
